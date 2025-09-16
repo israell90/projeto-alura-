@@ -1,6 +1,6 @@
-# Site acessível sobre spider-man
+# Site acessível sobre trap
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+sobre um site que recomenda traps br
 ## Recursos de acessibilidade
 - Atributos aria
 - alt
