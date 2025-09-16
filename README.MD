@@ -1,4 +1,4 @@
-# Site acessível sobre trap
+# Site acessível sobre traps
 # Sobre
 site que recomenda traps br
 ## Recursos de acessibilidade  
